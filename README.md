@@ -1,3 +1,7 @@
+<h1>My learning area</h1>
+Output of me following: 
+https://hackernoon.com/redux-step-by-step-a-simple-and-robust-workflow-for-real-life-apps-1fdf7df46092
+<h2>Bootstrapped</h2>
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
